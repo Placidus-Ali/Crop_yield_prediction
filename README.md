@@ -49,7 +49,7 @@ cd Crop_yield_prediction
 
 # Install required dependencies
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-
+```
 
 ## Here is the App
 https://cropyieldpredictionmodel.streamlit.app/
